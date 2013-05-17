@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": ">=2.2.*",
+        "symfony/symfony": "2.2.*",
         "symfony/twig-bundle": ">=2.1",
         "bitgandtter/google-api": "dev-master"
     },
