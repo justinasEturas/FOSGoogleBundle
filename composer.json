@@ -11,17 +11,10 @@
             "email":"yasmanycm@gmail.com"
         }
     ],
-"repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/justinasEturas/google-api.git"
-        }
-    ],
     "require": {
         "php": ">=5.3.2",
         "symfony/symfony": "2.2.*",
-        "symfony/twig-bundle": ">=2.1",
-        "bitgandtter/google-api": "dev-master"
+        "symfony/twig-bundle": ">=2.1"
     },
     "autoload": {
         "psr-0": { "FOS\\GoogleBundle": "" }
