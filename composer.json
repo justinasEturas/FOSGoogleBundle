@@ -11,6 +11,12 @@
             "email":"yasmanycm@gmail.com"
         }
     ],
+"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/justinasEturas/google-api.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.2",
         "symfony/symfony": "2.2.*",
